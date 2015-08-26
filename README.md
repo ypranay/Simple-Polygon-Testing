@@ -19,5 +19,5 @@ Boolean Answer, Yes if the points in CCW order, form a simple polygon. No, other
 	  Yes!! It is a Simple Polygon !!!
 
 ###Compile Instructions
-For compiling and executing, please use the stream redirection operator '<' or '>' to redirect stream to input and output file respectively.
+For compiling and executing, please use the stream redirection operator '<' to redirect stream to input file.
 
